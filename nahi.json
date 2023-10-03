@@ -15,10 +15,10 @@
             "#b2c5b2"
         ],
         "TEXT_NORMAL": [
-            "#d5dddf"
+            "b2c5b2"
         ],
         "TEXT_MUTED": [
-            "#b2c5b2"
+            "#d5dddf"
         ],
         "INTERACTIVE_NORMAL": [
             "#657F4E"
