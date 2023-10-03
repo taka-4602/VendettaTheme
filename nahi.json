@@ -18,19 +18,19 @@
             "#d5dddf"
         ],
         "TEXT_MUTED": [
-            "#d5dddf"
+            "#b2c5b2"
         ],
         "INTERACTIVE_NORMAL": [
-            "#657F4E"
+            "#b2c5b2"
         ],
         "INTERACTIVE_HOVER": [
             "#3c5148"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#d5dddf"
+            "#c8c8c8"
         ],
         "INTERACTIVE_MUTED": [
-            "#d5dddf"
+            "#b2c5b2"
         ],
         "BACKGROUND_PRIMARY": [
             "#192219"
