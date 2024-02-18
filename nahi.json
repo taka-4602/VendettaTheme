@@ -126,8 +126,8 @@
         "YELLOW_300": "#d5dddf",
         "GREEN_600": "#6b8e4e",
         "GREEN_360": "#92B192",
-        "DANGER": "#ff4500",
-        "RED_400": "#992b03"
+        "DANGER": "#992b03",
+        "RED_400": "#ff4500"
     },
     "spec": 2,
     "background": {
