@@ -1,0 +1,138 @@
+{
+    "name": "KusanariChan",
+    "description": "made 4 .taka.",
+    "authors": [
+        {
+            "name": "KusanariChan",
+            "id": "1098070295459017073"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#d5dddf"
+        ],
+        "HEADER_SECONDARY": [
+            "#b2c5b2"
+        ],
+        "TEXT_NORMAL": [
+            "#d5dddf"
+        ],
+        "TEXT_MUTED": [
+            "#b2c5b2"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#657f4e"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#3c5148"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#c8c8c8"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#6b8e4e"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#192219"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#1b2727"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#050e09"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#0e150e"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#92B192"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#1b2727"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#151b15"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#192219"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#090e0a"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#192219"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#1F1F2B"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#1a1926"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#3c5148"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#3c5148"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "transparent"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#26273b"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#26273b"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#1a1926"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#192219"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#b2c5b2"
+        ],
+        "TEXT_LINK": [
+            "#c8c8c8"
+        ],
+        "KEYBOARD": [
+            "#1b2727"
+        ],
+        "CHANNEL_ICON": [
+            "#b2c5b2"
+        ],
+        "CHAT_BACKGROUND": [
+            "transparent"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#6b8e4e",
+        "PRIMARY_100": "#6b8e4e",
+        "PRIMARY_200": "#6b8e4e",
+        "PRIMARY_300": "#B6B6B6",
+        "PRIMARY_360": "#6b8e4e",
+        "PRIMARY_400": "#d5dddf",
+        "PRIMARY_600": "#192219",
+        "PRIMARY_630": "#151D15",
+        "PRIMARY_700": "#3c5148",
+        "PRIMARY_800": "#192219",
+        "BRAND_260": "#d5dddf",
+        "BRAND_500": "#00b3ff",
+        "BRAND_360": "#d5dddf",
+        "BRAND_560": "#d5dddf",
+        "YELLOW_300": "#d5dddf",
+        "GREEN_600": "#6b8e4e",
+        "GREEN_360": "#92B192",
+        "DANGER": "#992b03",
+        "RED_400": "#ff4500"
+    },
+    "spec": 2,
+    "background": {
+        "url": "https://raw.githubusercontent.com/taka-4602/VendettaTheme/main/bg2.jpeg",
+        "alpha": 0.5,
+        "color": "#081924"
+    }
+}
